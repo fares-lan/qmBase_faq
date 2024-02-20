@@ -1,0 +1,49 @@
+.header {
+  background: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+  width: 100% ;
+}
+
+.header-title{
+  font-size: 5rem;
+  color:black
+}
+
+.header-sub{
+  font-size: 1.3rem;
+  color:rgb(136, 136, 136)
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  padding: auto;
+}
+
+
+
+.button.guide {
+  background: #006837; 
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: inline-block;
+  width: 50%;
+  font-size: 2rem; 
+  color: white;
+
+
+}
+
+.button.support {
+  background: #008CBA;
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: inline-block;
+  width: 50%;
+  font-size:2rem; 
+  color: white;
+ 
+}

@@ -1,0 +1,22 @@
+/* AddQuestionAnswerForm.css */
+.add-question-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+
+  .submit-button {
+    width: 100%;
+    margin-top: 10px; 
+  }
+
+  .footer-container {
+    padding: 20px;
+    margin-top: 30px;
+    background-color: #f8f9fa; 
+    text-align: start;
+  }

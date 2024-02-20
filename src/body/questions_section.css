@@ -1,0 +1,19 @@
+/* Questionsbar.css */
+
+.questions {
+  margin-top: 25px;
+  width: 100%;
+  
+}
+.inp,.new {
+  color: blue;
+  font-size:xx-large ;
+}
+
+.imp {
+  color: black;
+  font-size:large;
+  margin-top: 15px;
+}
+
+
